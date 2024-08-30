@@ -19,7 +19,7 @@ const Header = () => {
         <nav>
           <h1>W E L C O M E</h1>
           <ul id="sidemenu" className={mobilemenu}>
-          <Link to={"/home"}><li><a href="">Home</a></li></Link>
+          <Link to={"/"}><li><a href="">Home</a></li></Link>
           <Link to={"/about"}><li><a href="">About</a></li></Link>
           <Link to={"/services"}><li><a href="">Services</a></li></Link>
           <Link to={"/portfolio"}><li><a href="">Portfolio</a></li></Link>
