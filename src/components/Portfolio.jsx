@@ -12,7 +12,7 @@ function Portfolio(){
                             <h3>WEB DEVELOPMENT</h3>
                             <p>I am passionate about Web Developement and love to do this. I developed some of the
                             Web Applications.Please Click the link below to see those.</p>
-                            <a href="https://choudhury555.github.io/ProjectLink/" target="_blank"><i className="fa-sharp fa-solid fa-arrow-up-right-from-square"></i></a>
+                            {/* <a href="" target="_blank"><i className="fa-sharp fa-solid fa-arrow-up-right-from-square"></i></a> */}
                         </div>
                     </div>
                     <div className="work">
@@ -21,7 +21,7 @@ function Portfolio(){
                             <h3>Competitive Programming</h3>
                             <p>I love to do competitive programming.I have been doing competitive programming and
                             Data Structures on different Platform like GFG,LeetCode,etc.</p>
-                            <a href="https://leetcode.com/choudhury555/" target="_blank"><i className="fa-sharp fa-solid fa-arrow-up-right-from-square"></i></a>
+                            {/* <a href="" target="_blank"><i className="fa-sharp fa-solid fa-arrow-up-right-from-square"></i></a> */}
                         </div>
                     </div>
                     <div className="work">
@@ -29,7 +29,7 @@ function Portfolio(){
                         <div className="layer">
                             <h3>Others</h3>
                             <p>Find my other works by clicking the below link.</p>
-                            <a href="https://auth.geeksforgeeks.org/user/choudhurypanda555/practice" target="_blank"><i className="fa-sharp fa-solid fa-arrow-up-right-from-square"></i></a>
+                            {/* <a href="" target="_blank"><i className="fa-sharp fa-solid fa-arrow-up-right-from-square"></i></a> */}
                         </div>
                     </div>
                 </div>

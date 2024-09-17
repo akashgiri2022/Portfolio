@@ -63,7 +63,7 @@ nav ul li a:hover::after{
     background-image: url("img/BGPIC.jpg");
     background-size: cover;
     background-position: center;
-    height: 772px;
+    height: 500px;
     margin-top: 0px;
     font-size: 20px;
 }
@@ -79,7 +79,7 @@ nav ul li a:hover::after{
 
 
 #about{
-    padding:23px 0;
+    padding:0px 0;
   }
   .row{
     display:flex;
@@ -106,7 +106,7 @@ nav ul li a:hover::after{
   
   .tab-titles{
     display: flex;
-    margin:20px 0 40px;
+    margin:25px 0 35px;
     letter-spacing: 2px;
   }
   .tab-links{
@@ -149,7 +149,7 @@ nav ul li a:hover::after{
 
   /*-------------Services---------------*/
 #services{
-    padding: 62px 0;;
+    padding: -20px 0;;
   }
   .services-list{
     display: grid;
@@ -172,7 +172,7 @@ nav ul li a:hover::after{
   .services-list div h2{
     font-size: 30px;
     font-weight: 500;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
     letter-spacing: 1px;
   }
   
